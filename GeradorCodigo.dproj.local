@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/08/10 23:35:58.000.458,=C:\Users\ednar\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/08/10 23:36:58.000.549,C:\Users\ednar\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=E:\Sistemas\Delphi\Gerador_C#\uGeradorCodigoCSharp.pas</Transaction>
+    <Transaction>2024/08/10 23:36:58.000.549,C:\Users\ednar\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=E:\Sistemas\Delphi\Gerador_C#\uGeradorCodigoCSharp.dfm</Transaction>
+    <Transaction>2024/08/10 23:38:43.000.256,C:\Users\ednar\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=E:\Sistemas\Delphi\Gerador_C#\GeradorCodigo.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
